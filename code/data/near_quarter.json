@@ -1,0 +1,26 @@
+{
+ "5-1000": {
+  "atoms": 1408,
+  "mean_ratio_to_average": 0.49397051690424215,
+  "mean_worst_case_ratio": 4.806201866014053,
+  "mean_ratio_omega>=3": 1.14356804181903
+ },
+ "1000-10000": {
+  "atoms": 12784,
+  "mean_ratio_to_average": 0.5496310952389869,
+  "mean_worst_case_ratio": 6.120535090099223,
+  "mean_ratio_omega>=3": 1.017133308373505
+ },
+ "10000-50000": {
+  "atoms": 56736,
+  "mean_ratio_to_average": 0.5824283527165209,
+  "mean_worst_case_ratio": 6.983818820812153,
+  "mean_ratio_omega>=3": 0.9831716725641895
+ },
+ "50000-200000": {
+  "atoms": 212752,
+  "mean_ratio_to_average": 0.6064641884021325,
+  "mean_worst_case_ratio": 7.691082372423608,
+  "mean_ratio_omega>=3": 0.965104100265758
+ }
+}
